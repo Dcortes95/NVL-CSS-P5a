@@ -1,0 +1,16 @@
+div img{
+	border: 16px solid orange;
+	background-color: purple;
+	padding: 32px 32px 32px 32px;
+	margin: 10px 10px 10px 10px;
+	border-style: groove;
+	
+
+}
+body{
+	background-color: red;
+}
+h1{
+	text-align: center;
+	color: white;
+}
